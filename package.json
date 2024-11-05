@@ -1,7 +1,6 @@
 {
-  "name": "yongholeeme-reproduce-bug-refresh",
+  "name": "reproduction-bug-history-api-in-effect-nextjs",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
